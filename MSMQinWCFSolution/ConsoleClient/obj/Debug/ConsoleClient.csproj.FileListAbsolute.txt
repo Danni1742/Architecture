@@ -1,0 +1,2 @@
+F:\Projects\MSMQinWCFSolution\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+F:\Projects\MSMQinWCFSolution\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache

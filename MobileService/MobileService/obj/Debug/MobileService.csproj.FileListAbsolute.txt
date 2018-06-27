@@ -1,0 +1,6 @@
+c:\users\denis\documents\visual studio 2017\Projects\MobileService\MobileService\bin\MobileService.dll.config
+c:\users\denis\documents\visual studio 2017\Projects\MobileService\MobileService\bin\MobileService.dll
+c:\users\denis\documents\visual studio 2017\Projects\MobileService\MobileService\bin\MobileService.pdb
+c:\users\denis\documents\visual studio 2017\Projects\MobileService\MobileService\obj\Debug\MobileService.csprojResolveAssemblyReference.cache
+c:\users\denis\documents\visual studio 2017\Projects\MobileService\MobileService\obj\Debug\MobileService.dll
+c:\users\denis\documents\visual studio 2017\Projects\MobileService\MobileService\obj\Debug\MobileService.pdb
